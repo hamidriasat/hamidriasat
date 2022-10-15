@@ -10,19 +10,15 @@
 
 - 🔭 I’m currently working on **efficient deployment of transformers model on triton server**
 
-- 🌱 I’m currently learning **Transformers model's**
+- 🌱 I’m currently learning **Transformers models**
 
 - 👯 I’m looking to collaborate on **CV | NLP | RL task**
-
-- 🤝 I’m looking to collaborate on **segmentation library**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hamid-ali-03075156742/](https://www.linkedin.com/in/hamid-ali-03075156742/)
 
 - 💬 Ask me about **computer vision, segmentation, edge deployment, transformers efficient deployment**
 
 - 📫 How to reach me **hamidriasat@gmail.com**
 
-- 📄 Know about my experiences [https://matching.turing.com/developer-resume-preview/7a3574441a0675aa9375c0531ae38b55147c14766a39f9](https://matching.turing.com/developer-resume-preview/7a3574441a0675aa9375c0531ae38b55147c14766a39f9)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/hamid-ali-03075156742/)
 
 - ⚡ Fun fact **I like to watch same movie again and again.**
 
