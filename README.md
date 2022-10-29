@@ -1,4 +1,6 @@
-<img src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif" data-canonical-src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif" width="800" height="300" />
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- <img src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif" data-canonical-src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif" width="800" height="300" /> -->
+
 
 <h1 align="center">Hi 👋, I'm Hamid Ali</h1>
 <h3 align="center">A passionate AI | ML Engineer from Pakistan.</h3>
