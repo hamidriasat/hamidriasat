@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hamid Ali</h1>
-<h3 align="center">A passionate AI | ML Engineer from Pakistan.</h3>
+<h3 align="center">A passionate AI | ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidriasat&label=Profile%20views&color=0e75b6&style=flat" alt="hamidriasat" /> </p>
 
@@ -41,4 +41,7 @@
 <!-- Github stats -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidriasat&show_icons=true&locale=en" alt="hamidriasat" /></p>
  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidriasat&" alt="hamidriasat" /></p>
+ 
+<!--  Commenting steak count -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidriasat&" alt="hamidriasat" /></p>
+ -->
