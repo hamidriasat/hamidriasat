@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **CV | NLP | RL task** -->
 
-- 💬 Ask me about **computer vision, segmentation, edge deployment, transformers efficient deployment**
+- 💬 Ask me about **LLM agents, Retrieval-Augmented Generation (RAG), streaming speech-to-text (STT) and text-to-speech (TTS) solutions, computer vision, segmentation, edge deployment, and transformers efficient deployment**.
 
 - 📫 How to reach me **hamidriasat@gmail.com**
 
